@@ -23,15 +23,9 @@ I recently completed my 12th standard and started my journey in the IT field —
 
 ---
 
-### 📈 GitHub Stats
-![Sahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](#)  
-- 📧 sahad@example.com  
+- 💼 www.linkedin.com/in/sahad-p-a3a799324  
+- 📧 iamsahadddd@gmail.com  
 
 > _“Code. Learn. Grow. Repeat.”_
